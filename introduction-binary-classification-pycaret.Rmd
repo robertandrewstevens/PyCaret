@@ -120,7 +120,7 @@ This dataset contains information on default payments, demographic factors, cred
     + ... 
     + PAY_6 = 6 months ago
     + Labels: 
-	      - -1 = pay duly
+        - -1 = pay duly
         - 1 = payment delay for one month
         - 2 = payment delay for two months
         - ...

@@ -158,7 +158,8 @@ follows:
     -   PAY_0 = last month
     -   …
     -   PAY_6 = 6 months ago
-    -   Labels: - -1 = pay duly
+    -   Labels:
+        -   -1 = pay duly
         -   1 = payment delay for one month
         -   2 = payment delay for two months
         -   …
